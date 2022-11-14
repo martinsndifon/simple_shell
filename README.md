@@ -78,8 +78,8 @@ ls -la
 ![114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c](https://user-images.githubusercontent.com/57016982/186711943-65abad4d-eedf-4d65-947d-3710e189bdee.png)
 
 ## Contributors :
-* [**Martins Ndifon**](https://github.com/martinsndifon)
 * [**David Efod**](https://github.com/efodthe2nd)
+* [**Martins Ndifon**](https://github.com/martinsndifon)
 
 ## Acknowledgments :
 - The creators of the C language
