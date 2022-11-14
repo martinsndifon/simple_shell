@@ -4,7 +4,7 @@
  * _strlen - returns the length of a string
  * @s: the string whose length to check
  *
- * Return: integer length of string
+ * Return: length of the string s
  */
 int _strlen(char *s)
 {
@@ -19,9 +19,9 @@ int _strlen(char *s)
 }
 
 /**
- * _strcmp - performs lexicogarphic comparison of two strangs.
- * @s1: the first strang
- * @s2: the second strang
+ * _strcmp - performs lexicographic comparison of two strings.
+ * @s1: the first string
+ * @s2: the second string
  *
  * Return: negative if s1 < s2, positive if s1 > s2, zero if s1 == s2
  */
