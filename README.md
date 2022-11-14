@@ -83,5 +83,5 @@ ls -la
 * [**David Efod**](https://github.com/efodthe2nd)
 
 ## Acknowledgments :
-- The creators of the C language.
-- Betty Holberton | Alx-Africa .
+- The creators of the C language
+- Betty Holberton | Alx-Africa
