@@ -26,7 +26,7 @@ char *get_history_file(info_t *info)
 
 /**
  * write_history - creates a file, or appends to an existing file
- * @info: the parameter struct
+ * @info: the parameter struct for definition
  *
  * Return: 1 on success, else -1
  */
