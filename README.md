@@ -3,17 +3,12 @@
 </h1>
 
 </p>
-
-<p align="center">
   <strong>
    Description
   </strong>
 </p>
-
-<p align="center">
-This project is an implementation of the shell created as a Milestone Project for the C code at ALX Africa Software Engineering. </br>
-The gates of shell is a project in the first trimester, that helps student to understand the advanced
-concepts behind the shell program include process, system call, bit manipulation, file managment, error handling ... </br>
+This project is an implementation of the shell created as a Milestone Project for the C language at ALX Software Engineering Course. </br>
+The gates of shell is a project in the first trimester, that helps student to understand the advanced concepts behind the shell program. It includes; processes, system call, bit manipulation, file managment, error handling ... </br>
 Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). </br>
 This program was written entirely in C Language.
 </p>
