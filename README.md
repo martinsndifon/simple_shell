@@ -66,7 +66,7 @@ https://github.com/martinsndifon/simple_shell.git
 - Clone [the repository ](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 - Create an executable by running the following command:
 - `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
-- From there, type in the following command and press your enter button.
+- Then type in the following command and press your enter button.
 - `./hsh`
 - If everything was done correctly, your simple shell should be up and running.
 
