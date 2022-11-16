@@ -21,7 +21,7 @@
 #define CMD_NORM	0
 #define CMD_OR		1
 #define CMD_AND		2
-#define CMD_CHAIN 	3
+#define CMD_CHAIN	3
 
 /* for convert_number() */
 #define CONVERT_LOWERCASE	1
@@ -51,7 +51,7 @@ typedef struct liststr
 
 /**
  * struct passinfo - contains pseudo-arguments to pass into a function.
- * 	allowing uniform prototype for function pointer struc
+ * allowing uniform prototype for function pointer struc
  * @arg: a string generated from getline containing arguments
  * @argv: an array of strings generated from arg
  * @path: a string path for the current command
@@ -69,7 +69,7 @@ typedef struct liststr
  * @cmd_buf: address of pointer to cmd_buf, on if chaining
  * @cmd_buf_type: CMD_type ||, &&, ;
  * @readfd: the fd from which to read line input
- * @histocount: the history line number count
+ * @histcount: the history line number count
  */
 typedef struct passinfo
 {
@@ -226,7 +226,7 @@ ssize_t get_node_index(list_t *, list_t *);
 
 /* toem_vars.c */
 int is_chain(info_t *, char *, size_t *);
-void check_chain(info_t *, char *, size_t *,size_t, size_t);
+void check_chain(info_t *, char *, size_t *, size_t, size_t);
 int replace_alias(info_t *);
 int replace_vars(info_t *);
 int replace_string(char **, char *);
